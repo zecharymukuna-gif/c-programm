@@ -15,14 +15,14 @@ int main(){
 
 	
 
-	printf("units offered this year");
+	printf("units offered this year\n");
 	
 //display units offered this semester;
 
-    printf("structured programming\n");
+    printf("structured programming and algorithms\n");
     printf("communication skills\n");
     printf("health and wellness management\n");
-    printf("introduction to computer studies and internet\n");
+    printf("digital literacy\n");
     printf("data ethics privacy and governance\n");
     printf("basic mathematics\n");
 
